@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pawstagram</string>
+
+
+    # Activity Login
+    <string name="logo_description">Pawstagram Logo</string>
+
+</resources>
